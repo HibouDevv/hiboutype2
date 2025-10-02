@@ -86,7 +86,7 @@ typedValueElement.addEventListener('input', (e) => {
 
 // Add this at the end of the file
 const messages = {
-	success: "CONGRATULATIONS! You finished in {seconds} seconds.",
+	success: "Congratulations! You finished in {seconds} seconds.",
 	error: "Oops! There's a mistake.",
 	start: "Start typing to begin the game."
 };
